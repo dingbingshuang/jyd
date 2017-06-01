@@ -321,3 +321,6 @@ width: 79px;
     cursor:pointer;
     display: none;
 }
+.foo_nav ul li:hover{
+    background-color: #1669ab;
+}
